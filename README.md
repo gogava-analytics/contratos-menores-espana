@@ -142,7 +142,7 @@ contratos-menores-espana/
 **1. Clonar el repositorio**
 
 ```bash
-git clone https://github.com/tu-usuario/contratos-menores-espana.git
+git clone https://github.com/gogava-analytics/contratos-menores-espana
 cd contratos-menores-espana
 ```
 
