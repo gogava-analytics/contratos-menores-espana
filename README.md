@@ -151,6 +151,12 @@ cd contratos-menores-espana
 ```bash
 python -m venv venv
 source venv/bin/activate  # En Windows: venv\Scripts\activate
+
+activate: For Bash, Zsh, and general POSIX shells.
+
+activate.fish: For your specific shell (Fish).
+
+activate.csh: For C-shell users.
 ```
 
 **3. Instalar dependencias**
