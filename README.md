@@ -447,7 +447,7 @@ Este proyecto se distribuye bajo la Licencia MIT. Consulte el archivo `LICENSE` 
 
 ## Autor
 
-**[Tu Nombre]**
+**[Giorgi Gogava]**
 
 - GitHub: [gogava-analytics](https://github.com/gogava-analytics)
 - LinkedIn: [giorgi gogava](https://www.linkedin.com/in/gogava-analytic/)
@@ -459,7 +459,6 @@ Este proyecto se distribuye bajo la Licencia MIT. Consulte el archivo `LICENSE` 
 
 - Plataforma de Contratación del Sector Público por proporcionar datos abiertos
 - Comunidad Python por el ecosistema de librerías de análisis de datos
-- [Institución/Mentor] por el apoyo académico durante el desarrollo del proyecto
 
 ---
 

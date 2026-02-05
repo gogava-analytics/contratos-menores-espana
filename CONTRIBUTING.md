@@ -435,8 +435,8 @@ class TestLimpiarContratos:
 Para preguntas sobre contribuciones:
 
 - Abrir un issue con la etiqueta `question`
-- Contactar al mantenedor: tu.email@ejemplo.com
+- Contactar al mantenedor: gogavaanalytics@gmail.com
 
 ---
 
-Última actualización: Febrero 2025
+Última actualización: Febrero 2026
