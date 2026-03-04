@@ -1,37 +1,7 @@
-# ================================================
-# CONTRATOS MENORES ESPAÑA - REQUIREMENTS
-# ================================================
-
-# Core Data Processing
-pandas>=2.1.0
-numpy>=1.24.0
-
-# Database
-SQLAlchemy>=2.0.0
-PyMySQL>=1.1.0
-pymysql[rsa]>=1.1.0
-
-# Environment & Configuration
-python-dotenv>=1.0.0
-
-# XML/ATOM Parsing
-lxml>=4.9.0
-
-# Visualization
-matplotlib>=3.7.0
-seaborn>=0.12.0
-folium>=0.14.0
-
-# Jupyter
-jupyter>=1.0.0
-notebook>=7.0.0
-ipykernel>=6.25.0
-
-# Utilities
-pathlib>=1.0.1
-unicodedata2>=15.0.0
-
-# Optional (for future development)
-# streamlit>=1.27.0
-# plotly>=5.17.0
-# scikit-learn>=1.3.0
+folium==0.20.0
+matplotlib==3.10.8
+numpy==2.4.2
+pandas==3.0.1
+python-dotenv==1.2.1
+seaborn==0.13.2
+SQLAlchemy==2.0.39
